@@ -25,3 +25,22 @@ main {
   margin: 20px auto;
   background-color: red;
 }
+
+.column {
+  width: 20%;
+  height: 400px;
+  background-color: blue;
+  float: left;
+}
+
+.central-box {
+  width: 50%;
+  height: 300px;
+  background-color: violet;
+  float: left;
+  margin: 0 5%;
+}
+
+.right {
+  height: 350px;
+}
