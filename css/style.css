@@ -3,7 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+ body {
+   padding: 20px 0;
+ }
 /* header */
 
 header{
@@ -88,6 +90,5 @@ footer {
   height: 100px;
   background-color: green;
   margin: auto;
-  margin-bottom: 20px;
 }
 /* /footer */
